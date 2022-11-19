@@ -3,9 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/ANT-ACER/AndroidStudioProjects/MobileQuiz/app/src/main/res/drawable/correct_option_border_bg.xml" value="0.2395" />
         <entry key="..\:/Users/ANT-ACER/AndroidStudioProjects/MobileQuiz/app/src/main/res/drawable/default_option_border_bg.xml" value="0.2395" />
+        <entry key="..\:/Users/ANT-ACER/AndroidStudioProjects/MobileQuiz/app/src/main/res/drawable/selected_option_border_bg.xml" value="0.2395" />
+        <entry key="..\:/Users/ANT-ACER/AndroidStudioProjects/MobileQuiz/app/src/main/res/drawable/wrong_option_border_bg.xml" value="0.2395" />
         <entry key="..\:/Users/ANT-ACER/AndroidStudioProjects/MobileQuiz/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/ANT-ACER/AndroidStudioProjects/MobileQuiz/app/src/main/res/layout/activity_quiz_questions.xml" value="0.25226449275362317" />
+        <entry key="..\:/Users/ANT-ACER/AndroidStudioProjects/MobileQuiz/app/src/main/res/layout/activity_result.xml" value="0.25226449275362317" />
       </map>
     </option>
   </component>
